@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.zero.store",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.3.0",
+    "applicationType": "gateway",
+    "baseName": "store",
+    "packageName": "com.zero.store",
+    "packageFolder": "com/zero/store",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MzQ2MDE1ZWFlZGI5NjczMGNkZWExNTY1YzMyMDVjZjliMjZiZDY0ZGZkYzhhZGM1OTc1NDQ0OWJhZDJjZmViZjEzNjBkNGI5ZDdkODQzYmFlNDliZDQ5YzgxYWUwZWZmNDBiNjliODBjZWI4MzdjZDllMGM2MzgwNzkyZGUyMGQ=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "zh-cn"
+    ]
+  }
+}
