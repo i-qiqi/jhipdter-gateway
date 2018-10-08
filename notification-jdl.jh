@@ -12,4 +12,4 @@ enum NotificationType {
 }
 
 service * with serviceClass
-microservice * with Notification
+microservice Notification, NotificationType with Notification
